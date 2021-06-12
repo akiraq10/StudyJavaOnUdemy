@@ -20,7 +20,7 @@ public class ArraysDemo {
         System.out.println(numbers[4]);
 
 
-        System.out.println("This isuse numbers in loop");
+        System.out.println("This is numbers in loop");
         for (int i=0;i< nubmers1.length;i++){
 
             System.out.println(nubmers1[i]);
